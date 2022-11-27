@@ -13,6 +13,7 @@ void main(){
   print("Salary= ${chtr1.salary=50000}");
   print("Film Name= ${CinemaSection.filmName="Aaram thampuran"}");
 
+
   CinemaSection chtr2=CinemaSection();
   print("Charater Details2");
   print("Name= ${chtr2.name="Mohanlal"}");
